@@ -44,7 +44,11 @@ Each row is a tuple:
 ```tsv
 query	solution0	solution1	label	category	language
 ...	...	...	1	Food	ory_Orya
+```
 
+## Cite Us
+
+```bibtex
 @misc{mukherjee2026piqaodia,
   title        = {PiQA-Odia: A Physical Commonsense Reasoning Dataset for Odia Language},
   author       = {Mukherjee, Kunal},
@@ -52,3 +56,4 @@ query	solution0	solution1	label	category	language
   howpublished = {arXiv},
   note         = {}
 }
+```
